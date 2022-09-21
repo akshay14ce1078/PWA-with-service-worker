@@ -1,0 +1,27 @@
+nav > ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: blueviolet;
+  height: 50px;
+  list-style-type: none;
+}
+
+nav a {
+  color: whitesmoke;
+  border: 0px;
+  padding-left: 20px;
+}
+
+nav a:active {
+  color: yellow;
+}
+
+main h2 {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  padding: 30px;
+}
